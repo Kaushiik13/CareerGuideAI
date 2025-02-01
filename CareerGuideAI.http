@@ -1,0 +1,6 @@
+@CareerGuideAI_HostAddress = http://localhost:5108
+
+GET {{CareerGuideAI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
